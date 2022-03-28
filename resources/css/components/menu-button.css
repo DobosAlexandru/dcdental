@@ -1,0 +1,44 @@
+
+.menu-button {
+
+	@apply relative flex flex-col justify-between overflow-hidden;
+	width: 40px;
+	height: 27px;
+	transition: background-color .5s cubic-bezier(.215,.61,.355,1);
+
+    /* @screen lg {
+        @apply hidden;
+    } */
+}
+
+@media(min-width:1024px){
+    .menu-button{
+        @apply hidden;
+    }
+}
+
+.menu-button__bar {
+    @apply flex bg-indigo-700;
+    width: 40px;
+    height: 3px;
+    @apply opacity-100;
+    transform: translateY(0px) translateZ(0px);
+    transition: transform .5s cubic-bezier(.215,.61,.355,1);
+    @apply rounded;
+
+}
+
+
+.menu-button.is-active > .menu-button__bar:first-child {
+
+    transform: translateY(12px) translateZ(0px) rotate(45deg);
+
+}
+
+.menu-button.is-active > .menu-button__bar:nth-child(2){
+    @apply opacity-0;
+}
+
+.menu-button.is-active > .menu-button__bar:last-child{
+    transform: translateY(-12px) translateZ(0px) rotate(-45deg);
+}

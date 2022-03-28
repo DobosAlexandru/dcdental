@@ -1,0 +1,96 @@
+body {
+    @apply .flex .flex-col .justify-between .min-h-screen;
+    @apply .text-base .font-mono .leading-normal .antialiased;
+}
+
+a {
+    @apply .font-mono .text-base .font-normal .no-underline .transition-colors .ease-in .duration-200 .leading-tight;
+}
+
+a:hover:focus:active {
+    @apply .text-indigo-600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    @apply .font-serif .text-indigo-700 .font-bold .tracking-wide .leading-none;
+
+}
+
+h2 {
+    @apply text-4xl lg:text-5xl;
+}
+
+h3 {
+    @apply text-3xl lg:text-4xl;
+}
+
+h4 {
+    @apply text-2xl lg:text-3xl;
+}
+
+h5 {
+    @apply text-xl lg:text-2xl;
+}
+
+h6 {
+    @apply font-light;
+    @apply text-lg;
+}
+
+hr {
+    @apply border-b;
+    @apply border-blue-200;
+    @apply my-12;
+    @apply rounded-full;
+}
+
+li {
+    ul,
+    ol {
+        @apply .my-0;
+    }
+}
+
+ul {
+    @apply .list-disc;
+}
+
+::selection {
+    @apply .bg-indigo-700;
+    @apply .text-white;
+}
+
+blockquote {
+    @apply .border-indigo-700;
+    @apply .border-l-4;
+    @apply .font-normal;
+    @apply .italic;
+    @apply .my-8;
+    @apply .pl-6;
+    @apply .text-gray-800;
+    @apply .text-lg;
+}
+
+code {
+    @apply .bg-gray-300;
+    @apply .px-2;
+    @apply .py-px;
+    @apply .rounded;
+    @apply .text-sm;
+}
+[v-cloak] .v-cloak-block {
+    display: block;
+}
+
+.v-cloak-block {
+    display: none;
+}
+
+
+
+

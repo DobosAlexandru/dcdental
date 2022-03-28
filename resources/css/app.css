@@ -1,0 +1,129 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
+
+@import "tailwindcss/base";
+.acordion__content {
+    @apply bg-indigo-900;
+}
+
+.accordion__list {
+    @apply px-5 list-none;
+}
+
+.accordion__item {
+    @apply border-b border-indigo-700;
+}
+
+.accordion__item:last-child {
+    @apply border-transparent;
+}
+
+.accordion__link {
+    @apply block font-normal text-2xl tracking-normal py-5 px-2;
+}
+
+/*article component*/
+
+.article__content h3 {
+    @apply mt-6 text-2xl text-indigo-900 font-mono opacity-75 xl:text-3xl;
+}
+
+.article__content p {
+    @apply mt-3 text-lg font-light text-black leading-normal tracking-normal font-mono opacity-75 md:text-xl;
+}
+
+.article__content ul {
+    @apply ml-3;
+}
+
+.article__content ul li {
+    @apply list-inside text-lg font-light text-gray-800 leading-normal tracking-normal font-mono md:text-xl;
+
+}
+
+/*hero component*/
+
+.hero-bg-color {
+    @apply hidden absolute z-20 bg-indigo-700 bottom-0 left-0 overflow-hidden opacity-0 lg:w-3/4;
+    @apply md:scale-0 md:block md:w-5/6 md:bg-indigo-700 md:bottom-0 md:left-0 md:h-24;
+    transition: all 450ms ease-in;
+}
+
+.hero-content {
+    @apply z-30;
+    @aplly transition ease-in-out delay-500 md:scale-0 md:w-5/6 md:px-5 md:absolute md:bottom-0 md:left-0 md:h-24;
+}
+
+.hero-content__inner {
+    @apply h-full w-full py-4 bg-indigo-700;
+    @apply md:flex md:items-center md:justify-between md:py-0 md:bg-transparent;
+}
+
+.hero-heading {
+    @apply text-white font-normal capitalize text-center;
+    @apply md:text-3xl md:opacity-0 xl:text-4xl;
+    transition: opacity 300ms ease-in;
+}
+
+
+.hero-button {
+    @apply text-sm leading-snug text-white uppercase font-semibold;
+    @apply inline-flex px-6 py-3 border-2 border-white rounded-full;
+    @apply md:px-8 md:tracking-wide md:opacity-0;
+}
+
+.hero-button:hover {
+    @apply bg-white text-indigo-700;
+}
+
+
+@media(min-width:768px) {
+    .hero-carousel .carousel-cell.is-selected>.hero-bg-color {
+        @apply opacity-100;
+        animation: scale-up-hor-left 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    }
+
+    .hero-carousel .carousel-cell.is-selected>.hero-conten {
+        animation: scale-up-hor-left 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    }
+
+    .hero-carousel .carousel-cell.is-selected>.hero-heading,
+    .hero-button {
+        animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+    }
+}
+
+/*gallery component*/
+.gallery-image {
+    @apply block relative h-full overflow-hidden shadow transition-transform ease-in-out duration-300 rounded-lg;
+}
+
+.gallery-image:hover {
+    transform: scale(1.02);
+    @apply shadow-md;
+}
+
+.gallery-image img {
+    position: relative;
+    @apply md:absolute md:top-0 md:left-0 md:min-h-full md:max-w-full;
+}
+
+
+@import "tailwindcss/components";
+@import "components/accordion.css";
+@import "components/navigation.css";
+@import "components/menu-button.css";
+@import "components/dropdown.css";
+
+
+@import "vendor/cookieconsent.css";
+@import "vendor/flickity.css";
+@import "vendor/photoswipe.css";
+
+
+@import "tailwindcss/utilities";
+@import "utility/animations.css";
+@import "utility/mixins.css";
+@import "utility/custom-utilities.css";

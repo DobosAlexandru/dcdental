@@ -1,0 +1,1051 @@
+{
+   "categories": {
+      "Implantologie": {
+         "name" : "Implantologie",
+         "id": 1,
+         "treatements": {
+            "Implant dentar MEGAGEN ANYRIDGE": {
+               ".key": 1,
+               "categoryId": 1,
+               "name": "Implant dentar MEGAGEN ANYRIDGE",
+               "price": 2200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar BREDENT CLASSIC": {
+               ".key": 2,
+               "categoryId": 1,
+               "name": "Implant dentar BREDENT CLASSIC",
+               "price": 2000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar BREDENT BLUE": {
+               ".key": 3,
+               "categoryId": 1,
+               "name": "Implant dentar BREDENT BLUE",
+               "price": 2200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar BREDENT ZIRCONIU": {
+               ".key": 4,
+               "categoryId": 1,
+               "name": "Implant dentar BREDENT ZIRCONIU",
+               "price": 4300,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar STRAUMAN": {
+               ".key": 5,
+               "categoryId": 1,
+               "name": "Implant dentar STRAUMAN",
+               "price": 4000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar NOBEL": {
+               ".key": 6,
+               "categoryId": 1,
+               "name": "Implant dentar NOBEL",
+               "price": 3800,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant dentar Alpha BIO": {
+               ".key": 7,
+               "categoryId": 1,
+               "name": "Implant dentar Alpha BIO",
+               "price": 1500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Implant zigomatic NOBEL": {
+               ".key": 8,
+               "categoryId": 1,
+               "name": "Implant zigomatic NOBEL",
+               "price": 3500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Miniimplant": {
+               ".key": 9,
+               "categoryId": 1,
+               "name": "Miniimplant",
+               "price": 700,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sinus lift lateral": {
+               ".key": 10,
+               "categoryId": 1,
+               "name": "Sinus lift lateral",
+               "price": 2200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sinus lift intern": {
+               ".key": 11,
+               "categoryId": 1,
+               "name": "Sinus lift intern",
+               "price": 600,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie os vestibular": {
+               ".key": 12,
+               "categoryId": 1,
+               "name": "Aditie os vestibular",
+               "price": 2000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie os simpla": {
+               ".key": 13,
+               "categoryId": 1,
+               "name": "Aditie os simpla",
+               "price": 500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Grefa epitelio-conjunctiva": {
+               ".key": 14,
+               "categoryId": 1,
+               "name": "Grefa epitelio-conjunctiva",
+               "price": 1500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie os autogen orizontal": {
+               ".key": 15,
+               "categoryId": 1,
+               "name": "Aditie os autogen orizontal",
+               "price": 3000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie os autogen vertical": {
+               ".key": 16,
+               "categoryId": 1,
+               "name": "Aditie os autogen vertical",
+               "price": 4000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie os cu aplicare membrana titan": {
+               ".key": 17,
+               "categoryId": 1,
+               "name": "Aditie os cu aplicare membrana titan",
+               "price": 5500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Recoltare si aplicare membrana PRF": {
+               ".key": 18,
+               "categoryId": 1,
+               "name": "Recoltare si aplicare membrana PRF",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Descoperire implant + capa cicatrizare": {
+               ".key": 19,
+               "categoryId": 1,
+               "name": "Descoperire implant + capa cicatrizare",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie implant": {
+               ".key": 20,
+               "categoryId": 1,
+               "name": "Extractie implant",
+               "price": 1000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Implanturi + lucrare fixă in 24h": {
+         "name" : "Implanturi + lucrare fixă in 24h",
+         "info": "Preturile includ realizarea extractiilor, chiuretajul si regularizarea osului alveolar, inserarea implanturilor speciale, sedare intravenoasa la nevoie si lucrarea protetica provizorie de lunga durata, fixă.",
+         "id": 2,
+         "treatements": {
+            "Sistem Fast&Fixed/arcada cu 4 implanturi + lucrare provizorie": {
+               ".key": 1,
+               "categoryId": 2,
+               "name": "Sistem Fast&Fixed/arcada cu 4 implanturi + lucrare provizorie",
+               "price": 3500,
+               "price_unit" : "eur",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sistem Fast&Fixed/arcada cu 6 implanturi + lucrare provizorie": {
+               ".key": 2,
+               "categoryId": 2,
+               "name": "Sistem Fast&Fixed/arcada cu 6 implanturi + lucrare provizorie",
+               "price": 4500,
+               "price_unit" : "eur",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sistem All on 4 Nobel Biocare/arcada cu 4 implanturi+ lucrare provizorie": {
+               ".key": 3,
+               "categoryId": 2,
+               "name": "Sistem All on 4 Nobel Biocare/arcada cu 4 implanturi+ lucrare provizorie",
+               "price": 4000,
+               "price_unit" : "eur",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sistem All on 6 Nobel Biocare/arcada cu 6 implanturi + lucrare provizorie ": {
+               ".key": 4,
+               "categoryId": 2,
+               "name": "Sistem All on 6 Nobel Biocare/arcada cu 6 implanturi + lucrare provizorie ",
+               "price": 4700,
+               "price_unit" : "eur",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Estetică dentară și facială": {
+         "name" : "Estetică dentară și facială",
+         "id": 3,
+         "treatements": {
+            "Albire dentara": {
+               ".key": 1,
+               "categoryId": 3,
+               "name": "Albire dentara",
+               "price": 1200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Fatete dentare": {
+               ".key": 2,
+               "categoryId": 3,
+               "name": "Fatete dentare",
+               "price": "-",
+               "price_unit" : "",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Injectare buze acid hialuronic": {
+               ".key": 3,
+               "categoryId": 3,
+               "name": "Injectare buze acid hialuronic",
+               "price": "1300",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Rejuvenare faciala prin terapia vamipr (PRP)/sedinta": {
+               ".key": 4,
+               "categoryId": 3,
+               "name": "Rejuvenare faciala prin terapia vamipr (PRP)/sedinta",
+               "price": "650",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Lifting facial cu fire de suspensie PDO": {
+               ".key": 4,
+               "categoryId": 3,
+               "name": "Lifting facial cu fire de suspensie PDO",
+               "price": "50",
+               "price_unit" : "lei/fir",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Ortodonție": {
+         "name" : "Ortodonție",
+         "id": 4,
+         "treatements": {
+            "Amprente, model de studiu, interpretare examene complementare, plan de tratament": {
+               ".key": 1,
+               "categoryId": 4,
+               "name": "Amprente, model de studiu, interpretare examene complementare, plan de tratament",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Disjunctor": {
+               ".key": 2,
+               "categoryId": 4,
+               "name": "Disjunctor",
+               "price": 900,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat miofunctional": {
+               ".key": 3,
+               "categoryId": 4,
+               "name": "Aparat miofunctional",
+               "price": 900,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat activ mobilizabil": {
+               ".key": 4,
+               "categoryId": 4,
+               "name": "Aparat activ mobilizabil",
+               "price": 700,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat fix metalic monomaxilar": {
+               ".key": 5,
+               "categoryId": 4,
+               "name": "Aparat fix metalic monomaxilar",
+               "price": 1500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat fix autoligaturant monomaxilar": {
+               ".key": 6,
+               "categoryId": 4,
+               "name": "Aparat fix autoligaturant monomaxilar",
+               "price": 2200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat fix fizionomic-ceramic monomaxilar": {
+               ".key": 7,
+               "categoryId": 4,
+               "name": "Aparat fix fizionomic-ceramic monomaxilar",
+               "price": 2350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat fix fizionomic safir monomaxilar": {
+               ".key": 8,
+               "categoryId": 4,
+               "name": "Aparat fix fizionomic safir monomaxilar",
+               "price": 2500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat fix fizionomic autoligaturant": {
+               ".key": 9,
+               "categoryId": 4,
+               "name": "Aparat fix fizionomic autoligaturant",
+               "price": 4500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aplicare Miniimplant Ortodontic": {
+               ".key": 10,
+               "categoryId": 4,
+               "name": "Aplicare Miniimplant Ortodontic",
+               "price": 700,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aparat Invisalign": {
+               ".key": 11,
+               "categoryId": 4,
+               "name": "Aparat Invisalign",
+               "price": 2200,
+               "price_unit" : "eur",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Tratamentul canalelor radiculare - Endodonție": {
+         "name" : "Tratamentul canalelor radiculare - Endodonție",
+         "id": 5,
+         "treatements": {
+            "Pulpectomie + obturatie dinti monoradiculari": {
+               ".key": 1,
+               "categoryId": 5,
+               "name": "Pulpectomie+obturatie dinti monoradiculari",
+               "price": 300,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pulpectomie + obturatie dinti biradiculari": {
+               ".key": 2,
+               "categoryId": 5,
+               "name": "Pulpectomie+obturatie dinti biradiculari",
+               "price": 350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pulpectomie + obturatie dinti pluriradiculari": {
+               ".key": 3,
+               "categoryId": 5,
+               "name": "Pulpectomie + obturatie dinti pluriradiculari",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pulpectomie + obturatie dinti monoradiculari Microscop": {
+               ".key": 4,
+               "categoryId": 5,
+               "name": "Pulpectomie + obturatie dinti monoradiculari Microscop",
+               "price": 370,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pulpectomie + obturatie dinti biradic Microscop": {
+               ".key": 5,
+               "categoryId": 5,
+               "name": "Pulpectomie + obturatie dinti biradic Microscop",
+               "price": 550,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pulpectomie + obturatie dinti pluriradiculari Microscop": {
+               ".key": 6,
+               "categoryId": 5,
+               "name": "Pulpectomie + obturatie dinti pluriradiculari Microscop",
+               "price": 800,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Chirurgie": {
+         "name" : "Chirurgie",
+         "id": 6,
+         "treatements": {
+            "Extractie dinte temporar": {
+               ".key": 1,
+               "categoryId": 6,
+               "name": "Extractie dinte temporar",
+               "price": 80,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie dinte/rest monoradicular": {
+               ".key": 2,
+               "categoryId": 6,
+               "name": "Extractie dinte/rest monoradicular",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie dinte/rest pluriradicular": {
+               ".key": 3,
+               "categoryId": 6,
+               "name": "Extractie dinte/rest pluriradicular",
+               "price": 180,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie dinte parodontotic": {
+               ".key": 4,
+               "categoryId": 6,
+               "name": "Extractie dinte parodontotic",
+               "price": 80,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Separatie radiculara": {
+               ".key": 5,
+               "categoryId": 6,
+               "name": "Separatie radiculara",
+               "price": 70,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Alveolotomie": {
+               ".key": 6,
+               "categoryId": 6,
+               "name": "Alveolotomie",
+               "price": 90,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie molar de minte erupt": {
+               ".key": 7,
+               "categoryId": 6,
+               "name": "Extractie molar de minte erupt",
+               "price": 230,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Extractie molar de minte semiinclus": {
+               ".key": 8,
+               "categoryId": 6,
+               "name": "Extractie molar de minte semiinclus",
+               "price": 350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Odontectomie(molar de minte inclus)": {
+               ".key": 9,
+               "categoryId": 6,
+               "name": "Odontectomie(molar de minte inclus)",
+               "price": "500-800",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Descoperire canin inclus submcos": {
+               ".key": 10,
+               "categoryId": 6,
+               "name": "Descoperire canin inclus submcos",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Descoperire canin inclus intraosos ": {
+               ".key": 11,
+               "categoryId": 6,
+               "name": "Descoperire canin inclus intraosos ",
+               "price": 350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Odontectomie canin/premolar(inclus)": {
+               ".key": 12,
+               "categoryId": 6,
+               "name": "Odontectomie canin/premolar(inclus)",
+               "price": 600,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Odontectomie meziodens": {
+               ".key": 13,
+               "categoryId": 6,
+               "name": "Odontectomie meziodens",
+               "price": 500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Plastie de santuri vestibulare": {
+               ".key": 14,
+               "categoryId": 6,
+               "name": "Plastie de santuri vestibulare",
+               "price": 700,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Regularizare creasta osoasa/arcada": {
+               ".key": 15,
+               "categoryId": 6,
+               "name": "Regularizare creasta osoasa/arcada",
+               "price": "400-800",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Incizie abces dentar": {
+               ".key": 16,
+               "categoryId": 6,
+               "name": "Incizie abces dentar",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Excizie formatiuni tumorale intraorale": {
+               ".key": 17,
+               "categoryId": 6,
+               "name": "Excizie formatiuni tumorale intraorale",
+               "price": "200-800",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Examen biopsic": {
+               ".key": 18,
+               "categoryId": 6,
+               "name": "Examen biopsic",
+               "price": 100,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Chistectomie": {
+               ".key": 19,
+               "categoryId": 6,
+               "name": "Chistectomie",
+               "price": "350-600",
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Rezectie apicala frontali": {
+               ".key": 20,
+               "categoryId": 6,
+               "name": "Rezectie apicala frontali",
+               "price": 350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Rezectie apicala premolari": {
+               ".key": 21,
+               "categoryId": 6,
+               "name": "Rezectie apicala premolari",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Rezectie apicala molari": {
+               ".key": 22,
+               "categoryId": 6,
+               "name": "Rezectie apicala molari",
+               "price": 500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Decapusonare pericoronarite": {
+               ".key": 23,
+               "categoryId": 6,
+               "name": "Decapusonare pericoronarite",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Plastia comunicarii oro-sinusale": {
+               ".key": 24,
+               "categoryId": 6,
+               "name": "Plastia comunicarii oro-sinusale",
+               "price": 250,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Tratamentul alveolitei/hemoragiei": {
+               ".key": 25,
+               "categoryId": 6,
+               "name": "Tratamentul alveolitei/hemoragiei",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Protetica": {
+         "name" : "Protetică",
+         "id": 7,
+         "treatements": {
+            "Coroana provizorie": {
+               ".key": 1,
+               "categoryId": 7,
+               "name": "Coroana provizorie",
+               "price": 130,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana compozit pe suport metal": {
+               ".key": 2,
+               "categoryId": 7,
+               "name": "Coroana compozit pe suport metal",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana ceramica pe suport metal": {
+               ".key": 3,
+               "categoryId": 7,
+               "name": "Coroana ceramica pe suport metal",
+               "price": 550,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana ceramica pe zirconiu": {
+               ".key": 4,
+               "categoryId": 7,
+               "name": "Coroana ceramica pe zirconiu",
+               "price": 1100,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana zirconiu monolitic": {
+               ".key": 5,
+               "categoryId": 7,
+               "name": "Coroana zirconiu monolitic",
+               "price": 1000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana ceramica presata E-max": {
+               ".key": 6,
+               "categoryId": 7,
+               "name": "Coroana ceramica presata E-max",
+               "price": 1400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana insurubata metalo-compozit/implant": {
+               ".key": 7,
+               "categoryId": 7,
+               "name": "Coroana insurubata metalo-compozit/implant",
+               "price": 750,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana insurbata metalo-ceramica/implant": {
+               ".key": 8,
+               "categoryId": 7,
+               "name": "Coroana insurbata metalo-ceramica/implant",
+               "price": 900,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana insurubata zirconiu monolitic/implant": {
+               ".key": 9,
+               "categoryId": 7,
+               "name": "Coroana insurubata zirconiu monolitic/implant",
+               "price": 1200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana insurubata ceramica pe zirconiu/implant": {
+               ".key": 10,
+               "categoryId": 7,
+               "name": "Coroana insurubata ceramica pe zirconiu/implant",
+               "price": 1500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana cimentata metalo-compozit /implant": {
+               ".key": 11,
+               "categoryId": 7,
+               "name": "Coroana cimentata metalo-compozit/implant",
+               "price": 630,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Coroana cimentata metalo-ceramica/implant": {
+               ".key": 12,
+               "categoryId": 7,
+               "name": "Coroana cimentata metalo-ceramica/implant",
+               "price": 800,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza totala provizorie fixa pe implanturi": {
+               ".key": 13,
+               "categoryId": 7,
+               "name": "Proteza totala provizorie fixa pe implanturi",
+               "price": 2000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza mobila cu capse": {
+               ".key": 14,
+               "categoryId": 7,
+               "name": "Proteza mobila cu capse",
+               "price": 2500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza Kemmeny": {
+               ".key": 15,
+               "categoryId": 7,
+               "name": "Proteza Kemmeny",
+               "price": 380,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza kemmeny elastica": {
+               ".key": 16,
+               "categoryId": 7,
+               "name": "Proteza kemmeny elastica",
+               "price": 700,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza mobila acrilica": {
+               ".key": 17,
+               "categoryId": 7,
+               "name": "Proteza mobila acrilica",
+               "price": 1500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza mobila acrilica armata": {
+               ".key": 18,
+               "categoryId": 7,
+               "name": "Proteza mobila acrilica armata",
+               "price": 1600,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Captusire proteza": {
+               ".key": 19,
+               "categoryId": 7,
+               "name": "Captusire proteza",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Reparatie simpla proteza": {
+               ".key": 20,
+               "categoryId": 7,
+               "name": "Reparatie simpla proteza",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Reparatie proteza cu inlocuire croset/dinte": {
+               ".key": 21,
+               "categoryId": 7,
+               "name": "Reparatie proteza cu inlocuire croset/dinte",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza scheletata cu crosete turnate": {
+               ".key": 22,
+               "categoryId": 7,
+               "name": "Proteza scheletata cu crosete turnate",
+               "price": 2300,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza scheletata cu sisteme speciale": {
+               ".key": 23,
+               "categoryId": 7,
+               "name": "Proteza scheletata cu sisteme speciale",
+               "price": 2600,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza mobila cu capse pe implanturi": {
+               ".key": 24,
+               "categoryId": 7,
+               "name": "Proteza mobila cu capse pe implanturi",
+               "price": 2800,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Proteza mobila cu bare pe implanturi": {
+               ".key": 25,
+               "categoryId": 7,
+               "name": "Proteza mobila cu bare pe implanturi",
+               "price": 2800,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Gutiera bruxism/arcada": {
+               ".key": 26,
+               "categoryId": 7,
+               "name": "Gutiera bruxism/arcada",
+               "price": 280,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Parodontologie": {
+         "name" : "Parodontologie",
+         "id": 8,
+         "treatements": {
+            "Chiuretaj parodontal/dinte": {
+               ".key": 1,
+               "categoryId": 8,
+               "name": "Chiuretaj parodontal/dinte",
+               "price": 60,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Igienizare/pachet paro/arcada": {
+               ".key": 2,
+               "categoryId": 8,
+               "name": "Igienizare/pachet paro/arcada",
+               "price": 350,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Air-flow/sedinta": {
+               ".key": 3,
+               "categoryId": 8,
+               "name": "Air-flow/sedinta",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Desensibilizare cu gel/arcada": {
+               ".key": 4,
+               "categoryId": 8,
+               "name": "Desensibilizare cu gel/arcada",
+               "price": 120,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Tratament abces parodontal/dinte": {
+               ".key": 5,
+               "categoryId": 8,
+               "name": "Tratament abces parodontal/dinte",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Tratament medicamentos pungi paro/dinte": {
+               ".key": 6,
+               "categoryId": 8,
+               "name": "Tratament medicamentos pungi paro/dinte",
+               "price": 100,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Imobilizare fibra de sticla/sextant": {
+               ".key": 7,
+               "categoryId": 8,
+               "name": "Imobilizare fibra de sticla/sextant",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Surfasaj non-chirurgical/sextant": {
+               ".key": 8,
+               "categoryId": 8,
+               "name": "Surfasaj non-chirurgical/sextant",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Identificare bacteriana": {
+               ".key": 9,
+               "categoryId": 8,
+               "name": "Identificare bacteriana",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Regenerare Emdogain/sextant": {
+               ".key": 10,
+               "categoryId": 8,
+               "name": "Regenerare Emdogain/sextant",
+               "price": 1400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Regenerare tisulara ghidata/dinte": {
+               ".key": 11,
+               "categoryId": 8,
+               "name": "Regenerare tisulara ghidata/dinte",
+               "price": "-",
+               "price_unit" : "-",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Tratament recesiune gingivala cu lambou/dinte": {
+               ".key": 12,
+               "categoryId": 8,
+               "name": "Tratament recesiune gingivala cu lambou/dinte",
+               "price": 500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Tratament recesiune gingivala cu grefa/dinte": {
+               ".key": 13,
+               "categoryId": 8,
+               "name": "Tratament recesiune gingivala cu grefa/dinte",
+               "price": 1000,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Gingivoplastie": {
+               ".key": 14,
+               "categoryId": 8,
+               "name": "Gingivoplastie",
+               "price": 200,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Aditie membrana PRF": {
+               ".key": 15,
+               "categoryId": 8,
+               "name": "Aditie membrana PRF",
+               "price": 400,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Injectare PRP": {
+               ".key": 16,
+               "categoryId": 8,
+               "name": "Injectare PRP",
+               "price": 500,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      },
+      "Tratamentul cariilor": {
+         "name" : "Tratamentul cariilor",
+         "id": 9,
+         "treatements": {
+            "Obturatie carie simpla": {
+               ".key": 1,
+               "categoryId": 9,
+               "name": "Obturatie carie simpla",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Obturatie stratificata": {
+               ".key": 2,
+               "categoryId": 9,
+               "name": "Obturatie stratificata",
+               "price": 250,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Obturatie frontala": {
+               ".key": 3,
+               "categoryId": 9,
+               "name": "Obturatie frontala",
+               "price": 300,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Obturatie glassionomer": {
+               ".key": 4,
+               "categoryId": 9,
+               "name": "Obturatie glassionomer",
+               "price": 120,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Sigilare santuri si fosete": {
+               ".key": 5,
+               "categoryId": 9,
+               "name": "Sigilare santuri si fosete",
+               "price": 90,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Obturatie glassionomer dinte temporar": {
+               ".key": 6,
+               "categoryId": 9,
+               "name": "Obturatie glassionomer dinte temporar",
+               "price": 120,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Obturatie compozit dinte temporar": {
+               ".key": 7,
+               "categoryId": 9,
+               "name": "Obturatie compozit dinte temporar",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Pachet igienizare": {
+               ".key": 8,
+               "categoryId": 9,
+               "name": "Pachet igienizare",
+               "price": 300,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Detartraj Ultrasunete": {
+               ".key": 9,
+               "categoryId": 9,
+               "name": "Detartraj Ultrasunete",
+               "price": 150,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Periaj profesional": {
+               ".key": 10,
+               "categoryId": 9,
+               "name": "Periaj profesional",
+               "price": 50,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            },
+            "Air-flow": {
+               ".key": 11,
+               "categoryId": 9,
+               "name": "Air-flow",
+               "price": 100,
+               "price_unit" : "lei",
+               "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, tempora. Odit optio quos eum iste, dolores voluptatum aliquam eveniet nam saepe iure veniam, ratione, ad nulla inventore cumque delectus minus!"
+            }
+         }
+      }
+   }
+}

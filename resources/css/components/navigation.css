@@ -1,0 +1,76 @@
+
+.nav-menu {
+    @apply fixed left-0 w-full overflow-auto pointer-events-none z-40 bg-indigo-100;
+    height: calc(100% - 110px);
+    top: 110px;
+    transform: scaleY(0);
+    transform-origin: left top;
+}
+
+.nav-menu.isvisible{
+    @apply pointer-events-auto;
+    transform: scaleY(1);
+    transition: transform 0.3s ease-in;
+}
+
+.nav-manu__inner {
+    @apply absolute top-0 left-0 h-full overflow-auto;
+    transform: scaleY(0);
+    transform-origin: left top;
+}
+
+.nav-menu__list {
+    @apply w-full;
+
+    &.is-visible {
+        transform: scaleY(1);
+        transition: transform 0.3s ease-in;
+    }
+}
+
+.nav-menu__item:nth:child(1){
+    border-top: 1px solid transparent;
+}
+
+.nav-menu__item:nth:child(2){
+    transition-delay: 100ms;
+}
+.nav-menu__item:nth:child(3){
+    transition-delay: 150ms;
+}
+.nav-menu__item:nth:child(4){
+    transition-delay: 200ms;
+}
+.nav-menu__item:nth:child(5){
+    transition-delay: 250ms;
+}
+.nav-menu__item:nth:child(6){
+    transition-delay: 300ms;
+}
+.nav-menu__item:nth:child(7){
+    transition-delay: 350ms;
+}
+
+.nav-menu__item {
+    @apply block border-t border-indigo-200 bg-gray-100 opacity-0;
+    transform:scaleY(0);
+    transition: all 0.3s ease-in;
+    transform-origin: left top;
+
+}
+
+.nav-menu__link {
+    @apply block font-semibold text-2xl tracking-normal py-4 px-3;
+}
+
+body.nav-menu--active {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.nav-menu.is-visible .nav-menu__item {
+    @apply opacity-100 text-indigo-900;
+    transform: none;
+
+}

@@ -1,0 +1,119 @@
+@font-face {
+    font-family: LibreFranklin;
+    src: url('../static/fonts/LibreFranklin-Light.eot');
+    src: url('../static/fonts/LibreFranklin-Light.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/LibreFranklin-Light.woff') format('woff'),
+    url('../static/fonts/LibreFranklin-Light.ttf') format('truetype'),
+    url('../static/fonts/LibreFranklin-Light.svg') format('svg');
+    font-style: normal;
+    font-weight: 300;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: LibreFranklin;
+    src: url('../static/fonts/LibreFranklin-Medium.eot');
+    src: url('../static/fonts/LibreFranklin-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/LibreFranklin-Medium.woff') format('woff'),
+    url('../static/fonts/LibreFranklin-Medium.ttf') format('truetype'),
+    url('../static/fonts/LibreFranklin-Medium.svg') format('svg');
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: LibreFranklin;
+    src: url('../static/fonts/LibreFranklin-Regular.eot');
+    src: url('../static/fonts/LibreFranklin-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/LibreFranklin-Regular.woff') format('woff'),
+    url('../static/fonts/LibreFranklin-Regular.ttf') format('truetype'),
+    url('../static/fonts/LibreFranklin-Regular.svg') format('svg');
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: LibreFranklin;
+    src: url('../static/fonts/LibreFranklin-Bold.eot');
+    src: url('../static/fonts/LibreFranklin-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/LibreFranklin-Bold.woff') format('woff'),
+    url('../static/fonts/LibreFranklin-Bold.ttf') format('truetype'),
+    url('../static/fonts/LibreFranklin-Bold.svg') format('svg');
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: LibreFranklin;
+    src: url('../static/fonts/LibreFranklin-SemiBold.eot');
+    src: url('../static/fonts/LibreFranklin-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/LibreFranklin-SemiBold.woff') format('woff'),
+    url('../static/fonts/LibreFranklin-SemiBold.ttf') format('truetype'),
+    url('../static/fonts/LibreFranklin-SemiBold.svg') format('svg');
+    font-style: normal;
+    font-weight: 600;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url('../static/fonts/PlayfairDisplay-Black.eot');
+    src: url('../static/fonts/PlayfairDisplay-Black.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/PlayfairDisplay-Black.woff') format('woff'),
+    url('../static/fonts/PlayfairDisplay-Black.ttf') format('truetype'),
+    url('../static/fonts/PlayfairDisplay-Black.svg') format('svg');
+    font-style: normal;
+    font-weight: 900;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url('../static/fonts/PlayfairDisplay-Bold.eot');
+    src: url('../static/fonts/PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/PlayfairDisplay-Bold.woff') format('woff'),
+    url('../static/fonts/PlayfairDisplay-Bold.ttf') format('truetype'),
+    url('../static/fonts/PlayfairDisplay-Bold.svg') format('svg');
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url('../static/fonts/PlayfairDisplay-ExtraBold.eot');
+    src: url('../static/fonts/PlayfairDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/PlayfairDisplay-ExtraBold.woff') format('woff'),
+    url('../static/fonts/PlayfairDisplay-ExtraBold.ttf') format('truetype'),
+    url('../static/fonts/PlayfairDisplay-ExtraBold.svg') format('svg');
+    font-style: normal;
+    font-weight: 800;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url('../static/fonts/PlayfairDisplay-Medium.eot');
+    src: url('../static/fonts/PlayfairDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/PlayfairDisplay-Medium.woff') format('woff'),
+    url('../static/fonts/PlayfairDisplay-Medium.ttf') format('truetype'),
+    url('../static/fonts/PlayfairDisplay-Medium.svg') format('svg');
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url('../static/fonts/PlayfairDisplay-SemiBold.eot');
+    src: url('../static/fonts/PlayfairDisplay-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../static/fonts/PlayfairDisplay-SemiBold.woff') format('woff'),
+    url('../static/fonts/PlayfairDisplay-SemiBold.ttf') format('truetype'),
+    url('../static/fonts/PlayfairDisplay-SemiBold.svg') format('svg');
+    font-style: normal;
+    font-weight: 600;
+    font-display: fallback;
+}
